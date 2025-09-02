@@ -280,7 +280,7 @@ Para reportar problemas o solicitar funcionalidades:
 ---
 
 <p align="center">
-  <strong>Desarrollado con ❤️ para el Ministerio de Hacienda de El Salvador</strong>
+  <strong>Desarrollado para fines educativos para el Ministerio de Hacienda de El Salvador</strong>
 </p>
 
 <p align="center">
