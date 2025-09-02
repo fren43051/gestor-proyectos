@@ -284,5 +284,5 @@ Para reportar problemas o solicitar funcionalidades:
 </p>
 
 <p align="center">
-  <sub>Sistema de Gestión de Proyectos v1.0 - 2024</sub>
+  <sub>Sistema de Gestión de Proyectos v1.0 - 2025</sub>
 </p>
